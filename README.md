@@ -96,8 +96,6 @@ gestione di richiesta e risposta, validazione e gestione degli errori.
 
 ## Contatti
 
-Cerchi uno sviluppatore backend Java/Spring con basi full-stack e un progetto già online? Scrivimi.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerio-evangelista-52213b239/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valerioevangelistakk@gmail.com)
 [![CV](https://img.shields.io/badge/CV-PDF-4B5563?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://example.com/valerio-evangelista-cv.pdf)
